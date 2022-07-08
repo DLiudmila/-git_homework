@@ -16,6 +16,8 @@
 
 * *git log*
 
+* *git diff*
+
 * *git checkout*
 
 * *git merge*
